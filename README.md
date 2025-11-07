@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=realconghuanuwu&icon=0&color=1" />
+  <img src="https://komarev.com/ghpvc/?username=realconghuanuwu" />
 </p>
