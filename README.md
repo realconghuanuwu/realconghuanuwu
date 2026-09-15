@@ -26,24 +26,18 @@
 
 <br/>
 
-<b>Tech & Tools</b>
+<b>Techstack</b>
 
 <img
   src="https://skillicons.dev/icons?i=react,ts,js,tailwind,threejs,java,spring,mysql"
   height="40"
 />
 
-<br/>
+<b>Tools</b>
 
 <img
   src="https://skillicons.dev/icons?i=docker,git,github,postman,vite,npm,figma"
   height="40"
-/>
-
-<img
-  src="https://cdn.simpleicons.org/n8n/EA4B71"
-  height="40"
-  alt="n8n"
 />
 
 <a href="https://www.linkedin.com/in/realconghuan/">
